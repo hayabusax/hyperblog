@@ -10,4 +10,4 @@ Un blog increible para el curso de git y github
 - Deploy
 - Merges a branches
 
-                          								:tw-1f355:
+:tw-1f355:
