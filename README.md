@@ -10,4 +10,6 @@ Un blog increible para el curso de git y github
 - Deploy
 - Merges a branches
 
+* Creado por el increible Platzi Team
+
 :tw-1f355:
