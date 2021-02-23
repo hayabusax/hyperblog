@@ -12,4 +12,5 @@ Un blog increible para el curso de git y github
 
 * Creado por el increible Platzi Team
 * Incluye ejemplos en Windows, linux y mac
+* Disponible para todas las edades
 :tw-1f355:
